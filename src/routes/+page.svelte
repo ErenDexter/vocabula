@@ -51,7 +51,7 @@
     <Game {words} />
   {:else}
     <div
-      class="flex lg:flex-row flex-col lg:gap-16 lg:px-10 lg:mt-10 px-4"
+      class="flex lg:flex-row flex-col lg:gap-16 lg:px-10 lg:mt-16 px-4"
       transition:fade
     >
       <div class="lg:w-2/5 lg:ml-10 lg:px-0">

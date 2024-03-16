@@ -3,7 +3,10 @@
   import "papercss/dist/paper.css";
 </script>
 
-<slot />
+<div class="min-h-screen">
+  <slot />
+</div>
+
 <div class="flex justify-center mb-4">
   Made with 💙 by <a
     class="ml-1.5"
